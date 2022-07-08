@@ -5,7 +5,7 @@ This is a list of the favorite places I have visited, along with descriptions an
 <link>
 
 How It's Made: 
-HTML, CSS, JavaScript
+HTML, JavaScript
 <details>
 
 <Optimizations>
